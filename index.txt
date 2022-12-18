@@ -1,0 +1,54 @@
+# sidebar
+
+alt = Mark Sansome
+Mark Sansome
+Infrastructure Engineer
+
+Show Contacts
+
+Email
+marksansome11@gmail.com
+
+Location
+Ontario, Canada
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+DevOps/SRE Advocate, YAML Engineer, and Cloud WranglerDevOps/SRE Advocate, YAML Engineer, and Cloud Wrangler
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Infrastructure engineering
+Deploying stuff to the cloud.
+
+## Current Employment
+
+Clients
+
+alt = rose rocket logo
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
